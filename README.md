@@ -1,4 +1,4 @@
-# pythonchallenge
+# Python Challenge
 Solutions for the Python Challenge website.
 
 ## Levels
