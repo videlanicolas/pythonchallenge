@@ -2,9 +2,9 @@
 Solutions for the Python Challenge website.
 
 ## Levels
-- [ ] <a href="levels/level0">Level 0</a>
-- [ ] <a href="levels/level1">Level 1</a>
-- [ ] <a href="levels/level2">Level 2</a>
+- [x] <a href="levels/level0">Level 0</a>
+- [x] <a href="levels/level1">Level 1</a>
+- [x] <a href="levels/level2">Level 2</a>
 - [ ] <a href="levels/level3">Level 3</a>
 - [ ] <a href="levels/level4">Level 4</a>
 - [ ] <a href="levels/level5">Level 5</a>
